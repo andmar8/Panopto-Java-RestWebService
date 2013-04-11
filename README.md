@@ -32,7 +32,7 @@ All dependancies in the code should now be satisfied, so you can compile to a wa
 How to use
 ----------
 
-Once compiled and deployed to your java container (i.e. Tomcat), you can find a bit of resource documenation at the index page, but in general everything is under...
+Once compiled and deployed to your java container (i.e. Tomcat), you can find a bit of resource documenation at the [index](https://github.com/andmar8/Panopto-Java-RestWebService/blob/master/web/index.jsp) page, but in general everything is under...
 
 <pre>
 	http://yourtomcat.com:<yourport>/panoptoRest/resources/....
@@ -44,7 +44,7 @@ e.g.
 	http://localhost:8084/panoptoRest/resources/folders/
 </pre>
 
-Note: For testing purposes, you may want to set a default user/password or authcode in the code so you don't have to send that in the headers for each request, see the comment [here]() for a little extra on how to do that
+Note: For testing purposes, you may want to set a default user/password or authcode in the code so you don't have to send that in the headers for each request, see the comment [here](https://github.com/andmar8/Panopto-Java-RestWebService/blob/master/src/java/rest/resources/panopto/BasicResource.java#L43) for a little extra on how to do that
 
 Nuances/deficiencies
 --------------------
