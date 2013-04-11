@@ -12,9 +12,9 @@ Requirements
 
 * Axis
 * Jersey
+* [PanoptoHelper](https://github.com/andmar8/Panopto-Java-RestWebServiceHelper) library
+* [PanoptoSerializableObjects](https://github.com/andmar8/Panopto-Java-SerializableObjects) library
 * [PanoptoAxis](https://github.com/andmar8/Panopto-Java-Axis) stubs library
-* PanoptoHelper library
-* PanoptoSerializableObjects library
 
 How to compile
 --------------
