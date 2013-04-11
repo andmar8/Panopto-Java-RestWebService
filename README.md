@@ -12,7 +12,7 @@ Requirements
 
 * Axis
 * Jersey
-* (PanoptoAxis)[https://github.com/andmar8/Panopto-Java-Axis] stubs library
+* [PanoptoAxis](https://github.com/andmar8/Panopto-Java-Axis) stubs library
 * PanoptoHelper library
 * PanoptoSerializableObjects library
 
