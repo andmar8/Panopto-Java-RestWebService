@@ -19,7 +19,7 @@ Requirements
 How to compile
 --------------
 
-Follow the instructions in for the respective required libraries to compile up their jars and then add them to the project like so (the names of the jars/libraries are as an example)...
+Follow the instructions for the respective required libraries to compile up their jars and then add them to the project like so (the names of the jars/libraries are as an example)...
 
 1. Axis2-1.6.2
 2. Jersey1.17
