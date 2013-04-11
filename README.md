@@ -3,7 +3,7 @@ Panopto-Java-RestWebService
 
 A simple Rest web service to expose most of the Panopto API.
 
-This is a pre-cursor to the ExternalIdTool, it allows you to see, via a Java container server (i.e. Tomcat et al), the Panopto API and plain XML (but could be adapted to JSON), the data inside Panopto. This can be more useful than the Panopto GUI itself when developing/testing
+This is a pre-cursor to the [ExternalIdTool](https://github.com/andmar8/Panopto-Java-ExternalIdTool), it allows you to see, via a Java container server (i.e. Tomcat et al), the Panopto API and plain XML (but could be adapted to JSON), the data inside Panopto. This can be more useful than the Panopto GUI itself when developing/testing
 
 Please see the index.jsp for supported resources, most things are GET-able, a couple are POST-able, but the POST code is likely to be nowhere near as mature as the GET code, my intent was only really to get at the raw data more easily then the GUI, so updating stuff wasn't really a huge concern when I was writing this.
 
